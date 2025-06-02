@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|c:\\users\\kemir\\source\\repos\\fitnesstrainerapp\\lab_6\\fitnesstrainerapp\\views\\workoutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\views\\workoutwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\views\\workoutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\views\\workoutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kemir\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\fitnesstrainerapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1965623E-4FF1-4B19-8B65-4823825104BA}|FitnessTrainerApp\\FitnessTrainerApp.csproj|solutionrelative:fitnesstrainerapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkoutWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\WorkoutWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Views\\WorkoutWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\WorkoutWindow.xaml.cs",
+              "RelativeToolTip": "FitnessTrainerApp\\Views\\WorkoutWindow.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:09:23.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkoutWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\WorkoutWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Views\\WorkoutWindow.xaml",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\WorkoutWindow.xaml",
+              "RelativeToolTip": "FitnessTrainerApp\\Views\\WorkoutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T22:09:05.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Views\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\RegisterWindow.xaml",
+              "RelativeToolTip": "FitnessTrainerApp\\Views\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T22:10:51.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "FitnessTrainerApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T22:07:56.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\App.config",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\App.config",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\App.config",
+              "RelativeToolTip": "FitnessTrainerApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-02T22:22:44.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\App.xaml.cs",
+              "RelativeToolTip": "FitnessTrainerApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:13:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\kemir\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCAAAAATAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:13:17.418Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Data\\Database.cs",
+              "RelativeToolTip": "FitnessTrainerApp\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:13:40.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\App.xaml",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\App.xaml",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\App.xaml",
+              "RelativeToolTip": "FitnessTrainerApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T22:12:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "FitnessTrainerApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:08:26.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Views\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Views\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "FitnessTrainerApp\\Views\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:08:01.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FitnessTrainerApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\FitnessTrainerApp\\Lab_6\\FitnessTrainerApp\\Models\\User.cs",
+              "RelativeToolTip": "FitnessTrainerApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T22:07:53.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

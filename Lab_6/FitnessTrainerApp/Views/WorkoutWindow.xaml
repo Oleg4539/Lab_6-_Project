@@ -1,0 +1,30 @@
+﻿<Window x:Class="FitnessTrainerApp.Views.WorkoutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Заняття" Height="400" Width="500">
+    <Grid Margin="10">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <ComboBox x:Name="DayComboBox" Width="120" Margin="5"/>
+                <ComboBox x:Name="TimeComboBox" Width="100" Margin="5"/>
+                <ComboBox x:Name="TypeComboBox" Width="150" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Button Content="Додати" Click="AddWorkout_Click" Width="100" Margin="5"/>
+                <Button Content="Редагувати" Click="EditWorkout_Click" Width="100" Margin="5"/>
+                <Button Content="Видалити" Click="DeleteWorkout_Click" Width="100" Margin="5"/>
+            </StackPanel>
+
+            <ListView x:Name="WorkoutListView" Height="200" Margin="0,10,0,0" SelectionMode="Single">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="День" DisplayMemberBinding="{Binding DayOfWeek}" Width="100"/>
+                        <GridViewColumn Header="Час" DisplayMemberBinding="{Binding Time}" Width="100"/>
+                        <GridViewColumn Header="Тип" DisplayMemberBinding="{Binding Type}" Width="200"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>
